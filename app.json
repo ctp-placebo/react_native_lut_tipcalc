@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "sdkVersion": "25.0.0",
+    "name": "Tip Calc",
+    "version": "1.0.0",
+    "slug": "tipcalc",
+    "icon": "./icon_app.png",
+    "ios": {
+    	"bundleIdentifier": "net.URL.tipcalc"
+    },
+    "android": {
+    	"package": "net.URL.tipcalc"
+    },
+  }
+}
